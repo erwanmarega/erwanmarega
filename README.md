@@ -1,9 +1,10 @@
+<img align="center" alt="coding"  src="https://visme.co/blog/wp-content/uploads/2020/02/header.gif" >
 <h1 align="center">Hi 👋, I'm Erwan Marega</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
-<iframe align="right" src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="468" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
 
 
-- 📫 How to reach me **maregaerwan@gmail.com**
+<br />- 📫 How to reach me **maregaerwan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
