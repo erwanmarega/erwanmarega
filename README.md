@@ -1,4 +1,4 @@
-[# 👋 Hello, I'm Erwan Marega
+# 👋 Hello, I'm Erwan Marega
 
 ### 🚀 Backend Developer | Tech Enthusiast | Creative Thinker  
 Based in Paris, I specialize in building robust, scalable systems and crafting seamless user experiences. I thrive on solving complex problems and exploring the intersection of technology and creativity.
@@ -45,4 +45,7 @@ Here’s a glimpse of the technologies and tools I work with:
 
 ### 💡 Let's Build Something Amazing Together!  
 Feel free to reach out—I'm always open to exciting projects and collaborations.
-](https://www.ewmdev.com/)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=erwanmarega&label=Profile%20Views&color=0e75b6&style=flat)
