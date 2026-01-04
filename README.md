@@ -169,7 +169,5 @@ const erwan = {
 ╚════════════════════════════════════════════╝
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people!</b> If you want to say hi, I'll be happy to meet you! 😊</em>
-
 </div>
 </details>
