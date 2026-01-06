@@ -9,7 +9,7 @@
 <p>
 <a href="mailto:maregaerwan@gmail.com"><img src="https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/erwan-marega"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https:ewmdev.com"><img src="https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.ewmdev.com/"><img src="https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=erwanmarega&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views"/>
