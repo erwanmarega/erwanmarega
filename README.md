@@ -5,7 +5,7 @@
 **Frontend Developer · Paris, France**
 
 Je conçois des interfaces web modernes, performantes et accessibles.
-Pixel-perfect, animations soignées et expérience utilisateur fluide.
+animations soignées et expérience utilisateur fluide.
 
 <p>
 <a href="mailto:maregaerwan@gmail.com"><img src="https://img.shields.io/badge/Email-667eea?style=flat-square&logo=gmail&logoColor=white"/></a>
