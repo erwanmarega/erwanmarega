@@ -68,16 +68,6 @@ animations soignées et expérience utilisateur fluide.
 
 <br/>
 
-## 🎯 En ce moment
-
-| 🚀 Projets | 📖 J'apprends | 🎯 Objectifs |
-|:----------:|:-------------:|:------------:|
-| React · Vue · Next.js | Python | Open source |
-| Design systems | Animations avancées | Lancer un SaaS |
-| Optimisation perf | Motion design | Développer mon réseau |
-
-<br/>
-
 ## 🤝 Contact
 
 <div align="center">
